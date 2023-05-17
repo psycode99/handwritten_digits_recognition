@@ -26,12 +26,12 @@ h1, h2 {
 
 /* TODO: Styling by id: add styling for canvas */
 #mycanvas{
-  height: 100px;
-  width: 100px;
-  background-color: black;
-  color: white;
+  vertical-align: top;
   display: inline;
-  border: white solid;
+  border: 5px solid #FFFFFF;
+  border-radius: 5%;
+  margin-left: 25px;
+  cursor: crosshair;
 }
 
 .container {
